@@ -1,2 +1,1 @@
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Deltalay&layout=compact" width="400" />
-
+![Delta GitHub stats](https://github-readme-stats.vercel.app/api?username=Deltalay&show_icons=true&theme=radical)
