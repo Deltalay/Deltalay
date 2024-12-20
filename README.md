@@ -10,11 +10,12 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create and
 
 ## 🛠️ Tech Stack
 
-- **Languages:** JavaScript, Python, Java, C++
-- **Frameworks:** React, Node.js
-- **Tools:** Git
+- **Languages:** JavaScript, Python, Java, C/C++, Php
+- **Frameworks:** React, Node.js, Laravel
+- **Tools:** Git, Vscode
 - **Databases:** MySQL, MongoDB, PostgreSQL
 
 ## 📈 GitHub Stats
 
 ![Deltalay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deltalay&show_icons=true&theme=radical)
+
