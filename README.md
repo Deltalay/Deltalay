@@ -1,2 +1,20 @@
-<img src="https://komarev.com/ghpvc/?username=deltalay&label=Profile%20views&color=0e75b6&style=flat" alt="deltalay" /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=deltalay&show_icons=true&locale=en" alt="deltalay" />
+# Hello, I'm Deltalay! 👋
+
+Welcome to my GitHub profile! I'm a passionate developer who loves to create and explore new technologies. Here's a little bit about me:
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on various open-source projects
+- 🌱 I’m currently learning things
+- ⚡ Fun fact: I enjoy playing chess and learn thing
+
+## 🛠️ Tech Stack
+
+- **Languages:** JavaScript, Python, Java, C++
+- **Frameworks:** React, Node.js
+- **Tools:** Git
+- **Databases:** MySQL, MongoDB, PostgreSQL
+
+## 📈 GitHub Stats
+
+![Deltalay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deltalay&show_icons=true&theme=radical)
