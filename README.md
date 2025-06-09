@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create and
 
 - **Languages:** JavaScript, Python, Java, C/C++, Php
 - **Frameworks:** React, Node.js, Laravel
-- **Tools:** Git, Vscode
+- **Tools:** Git, Vscode, Odoo
 - **Databases:** MySQL, MongoDB, PostgreSQL
 
 ## 📈 GitHub Stats
