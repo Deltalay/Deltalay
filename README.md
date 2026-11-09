@@ -10,9 +10,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create and
 
 ## 🛠️ Tech Stack
 
-- **Languages:** JavaScript, Python, Java, C/C++, Php
+- **Languages:** JavaScript, Python, Java, C/C++, Rust
 - **Frameworks:** React, Node.js, Laravel
-- **Tools:** Git, Vscode
+- **Tools:** Git, Zed
 - **Databases:** MySQL, MongoDB, PostgreSQL
 
 ## 📈 GitHub Stats
